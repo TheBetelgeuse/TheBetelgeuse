@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheBetelgeuse
 - 👀 I’m interested in Python, ML
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... the.cyber.neo@gmail.com
 
 <!---
