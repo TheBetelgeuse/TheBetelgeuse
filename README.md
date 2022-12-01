@@ -1,7 +1,11 @@
-MIPT student
+MIPT student 
+
 Teaching C++, algorithms, etc.
+
 Love neural networks & ML
+
 Future DS/ML-engineer
+
 
 <!---
 TheBetelgeuse/TheBetelgeuse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
