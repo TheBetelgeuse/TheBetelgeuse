@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TheBetelgeuse
-- 👀 I’m interested in Python, ML
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ... the.cyber.neo@gmail.com
+MIPT student
+Teaching C++, algorithms, etc.
+Love neural networks & ML
+Future DS/ML-engineer
 
 <!---
 TheBetelgeuse/TheBetelgeuse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
