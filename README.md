@@ -1,4 +1,4 @@
-MIPT student 
+MIPT 3 year student 
 
 Teaching C++, algorithms, etc.
 
